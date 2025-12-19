@@ -47,6 +47,12 @@ pip install python-whois
 pip install requests
 pip install beautifulsoup4
 pip install lxml
+pip install cherrypy
+pip install mako
+pip install pyyaml
+pip install cryptography
+pip install requests
+
 ```
 
 ---
